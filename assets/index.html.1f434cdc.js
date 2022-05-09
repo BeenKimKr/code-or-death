@@ -1,0 +1,1 @@
+const e={key:"v-825e98c4",path:"/nliker/bj/",title:"\uBC31\uC900",lang:"ko-KR",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sort",slug:"sort",children:[]},{level:2,title:"Greedy",slug:"greedy",children:[]}],git:{updatedTime:1652097023e3,contributors:[{name:"codakcodak",email:"tjwjdgus83@naver.com",commits:1}]},filePathRelative:"nliker/bj/README.md"};export{e as data};

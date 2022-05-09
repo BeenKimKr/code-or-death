@@ -1,0 +1,1 @@
+const e={key:"v-2d60bf08",path:"/kyungbeen/",title:"Contributor \uAC1C\uC778 \uD398\uC774\uC9C0\uC785\uB2C8\uB2E4",lang:"ko-KR",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164932431e4,contributors:[{name:"hajun",email:"audgkwns44@gmail.com",commits:1}]},filePathRelative:"kyungbeen/README.md"};export{e as data};

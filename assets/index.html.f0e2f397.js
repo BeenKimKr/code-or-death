@@ -1,0 +1,1 @@
+const e={key:"v-fec41e84",path:"/hajun/",title:"Hola, this is DENVER(hajun)",lang:"ko-KR",frontmatter:{},excerpt:"",headers:[{level:2,title:"Log",slug:"log",children:[]}],git:{updatedTime:165024595e4,contributors:[{name:"hajun",email:"audgkwns44@gmail.com",commits:5}]},filePathRelative:"hajun/README.md"};export{e as data};
